@@ -1,0 +1,28 @@
+name: Running Boards
+favicon: null
+layout_spectrum: 0.26609227689914405
+typography_spectrum: 0.2084069720003754
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.25036838511005044
+  lightness: 0.9998882440850139
+  saturation: 0.8392151889856905
+  rhythmicContrast: 0.033027869649231434
+purpose: []
