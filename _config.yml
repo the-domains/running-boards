@@ -21,7 +21,7 @@ color:
     - '#ffffff'
     - '#db2136'
     - '#80736d'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0
   saturation: 0
   rhythmicContrast: 0.75
